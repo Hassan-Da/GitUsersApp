@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">github app</string>
+    <string name="btnSearch">Search</string>
+</resources>
